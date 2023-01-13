@@ -1,0 +1,18 @@
+1) Overall Win Margin for all teams
+2) Win Margin for different spreads (0-7 point favorite) (8-14 point favorite) (14+ point favorite)
+3) Win Margin for each team home and away (compare to get home field advantage)
+4) Win Margin in divisional (rivalry) games compared to the spread (broken down by size of spread)
+
+For all of above determine how often they cover
+
+5) Teams performance against the spread in games coming off a short week. (playing Sunday then again Thursday) or (Monday -> Sunday)
+6) Teams performance against the spread in games off of a long rest (bye week, Thursday - Next Sunday/Monday)
+7) Win rate of individual spreads
+8) Big favorite covering with low total (total below 42.5)
+9) Win percentages of alt spreads at individual spread and in general
+10) Win percentage of over when spread is large (>-9.5)
+11) How often favorite vs underdogs cover
+
+Stretch Goals-
+7) Test how teams match up against each other (passing/rushing yards) and see what affect that has on win margin
+8) Test how teams perform after big losses - narrow upset wins - long win streaks- after returning home from long road stretch. etc.

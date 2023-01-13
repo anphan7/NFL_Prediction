@@ -1,1 +1,2 @@
-# NFL_Prediction
+# NFLGamePrediction
+Project repo for team NFLGamePrediction
