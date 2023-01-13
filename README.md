@@ -15,3 +15,15 @@ As a result, the average is 0.0196 points above Vegas’s spread for the rival g
 very good at setting the spreads for rivalry games. However that does not mean that looking at rivalry games is useless. As
 Figure 3 shows, for the games that are not rivalry games the underdog covers by an average of 0.3 points. This leads to the
 conclusion that underdogs cover the spread more often than not in all games except rivalry games.
+
+![image](https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Home%20Field%20Spread%20Advantage.png)
+
+Another major factor we were interested in studying is home field advantage. It is well known that for a variety of reasons
+the home team has an advantage in a football game. However quantifying this advantage for each team was of great interest.
+Figure 4 shows the results of this analysis. These values were calculated by calculating the average spread win margin for
+each team both at home and away and subtracting the away average from the home average. Teams with a positive number
+have a stronger home field advantage than Vegas expects, and teams with a negative number have a weaker home field
+advantage than Vegas expects. This means that if a team has a high number it would likely be beneficial to bet on them to
+cover at home.
+
+![image](https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Screen_Shot_2022-12-05_at_7.16.08_PM.png)
