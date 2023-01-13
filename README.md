@@ -16,3 +16,5 @@ Team A needs to win by 5 to cover the spread.
 Many sportsbooks also allow bettors to move the
 line either up or down for either raised or
 lowered odds.
+
+![image]([https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Win%20Margin%20Frequency.png](https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Rivalry%20Spread%20Margin%20Frequency.png))
