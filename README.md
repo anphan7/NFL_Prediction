@@ -17,4 +17,5 @@ Many sportsbooks also allow bettors to move the
 line either up or down for either raised or
 lowered odds.
 
-![image]([https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Win%20Margin%20Frequency.png](https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Rivalry%20Spread%20Margin%20Frequency.png))
+![image](https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Rivalry%20Spread%20Margin%20Frequency.png)
+![image](https://github.com/anphan7/NFL_Prediction/blob/main/Graphs/Non%20Rival%20Spread%20Margin%20Frequency.png)
